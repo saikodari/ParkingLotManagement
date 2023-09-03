@@ -1,0 +1,44 @@
+﻿@using ParkingLotManagementWeb.ViewModels;
+@model ParkingLotSettings
+<div class="d-flex mt-1 justify-content-center">
+    <span>Total Spots: @Model.TotalSpots</span>
+</div>
+<div class=" d-flex justify-content-center">
+    <span>Hourly Fee: @Model.HourlyFee</span>
+</div>
+<div class="d-flex mt-3 mb-2 justify-content-center">
+    <span>Available Spots:@Model.AvailableSpots</span>
+</div>
+<div>
+    <table class="table table-striped table-bordered">
+        <thead>
+            <tr>
+                <th>Tag Number</th>
+                <th>In</th>
+                <th>Elapsed Time</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var car in Model.ParkedCarViewModel)
+            {
+                <tr>
+                    <td>@car.TagNumber</td>
+                    <td>@car.EntryTime.ToString("h:mm:ss tt")</td>
+                    <td>
+                        @if (car.ElapsedHours == 0)
+                        {
+                            @(car.ElapsedHours +" hour")
+                            }
+                        else
+                        {
+                            @(car.ElapsedHours +" hours")
+                            }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<div class="d-flex mt-2 justify-content-end">
+    <span>Spots Takes:@Model.SpotsTaken</span>
+</div>

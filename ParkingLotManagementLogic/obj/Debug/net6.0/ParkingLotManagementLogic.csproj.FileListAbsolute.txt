@@ -1,0 +1,15 @@
+C:\sai_\ParkingLotManagement\ParkingLotManagementLogic\bin\Debug\net6.0\ParkingLotManagementLogic.deps.json
+C:\sai_\ParkingLotManagement\ParkingLotManagementLogic\bin\Debug\net6.0\ParkingLotManagementLogic.dll
+C:\sai_\ParkingLotManagement\ParkingLotManagementLogic\bin\Debug\net6.0\ParkingLotManagementLogic.pdb
+C:\sai_\ParkingLotManagement\ParkingLotManagementLogic\bin\Debug\net6.0\ParkingLotManagement.Data.dll
+C:\sai_\ParkingLotManagement\ParkingLotManagementLogic\bin\Debug\net6.0\ParkingLotManagement.Data.pdb
+C:\sai_\ParkingLotManagement\ParkingLotManagementLogic\obj\Debug\net6.0\ParkingLotManagementLogic.csproj.AssemblyReference.cache
+C:\sai_\ParkingLotManagement\ParkingLotManagementLogic\obj\Debug\net6.0\ParkingLotManagementLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\sai_\ParkingLotManagement\ParkingLotManagementLogic\obj\Debug\net6.0\ParkingLotManagementLogic.AssemblyInfoInputs.cache
+C:\sai_\ParkingLotManagement\ParkingLotManagementLogic\obj\Debug\net6.0\ParkingLotManagementLogic.AssemblyInfo.cs
+C:\sai_\ParkingLotManagement\ParkingLotManagementLogic\obj\Debug\net6.0\ParkingLotManagementLogic.csproj.CoreCompileInputs.cache
+C:\sai_\ParkingLotManagement\ParkingLotManagementLogic\obj\Debug\net6.0\ParkingLotManagementLogic.csproj.CopyComplete
+C:\sai_\ParkingLotManagement\ParkingLotManagementLogic\obj\Debug\net6.0\ParkingLotManagementLogic.dll
+C:\sai_\ParkingLotManagement\ParkingLotManagementLogic\obj\Debug\net6.0\refint\ParkingLotManagementLogic.dll
+C:\sai_\ParkingLotManagement\ParkingLotManagementLogic\obj\Debug\net6.0\ParkingLotManagementLogic.pdb
+C:\sai_\ParkingLotManagement\ParkingLotManagementLogic\obj\Debug\net6.0\ref\ParkingLotManagementLogic.dll

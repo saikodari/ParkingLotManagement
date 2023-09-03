@@ -1,0 +1,14 @@
+C:\sai_\ParkingLotManagement\ParkingLotManagement.Data\bin\Debug\net6.0\ParkingLotManagement.Data.deps.json
+C:\sai_\ParkingLotManagement\ParkingLotManagement.Data\bin\Debug\net6.0\ParkingLotManagement.Data.runtimeconfig.json
+C:\sai_\ParkingLotManagement\ParkingLotManagement.Data\bin\Debug\net6.0\ParkingLotManagement.Data.dll
+C:\sai_\ParkingLotManagement\ParkingLotManagement.Data\bin\Debug\net6.0\ParkingLotManagement.Data.pdb
+C:\sai_\ParkingLotManagement\ParkingLotManagement.Data\obj\Debug\net6.0\ParkingLotManagement.Data.csproj.AssemblyReference.cache
+C:\sai_\ParkingLotManagement\ParkingLotManagement.Data\obj\Debug\net6.0\ParkingLotManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\sai_\ParkingLotManagement\ParkingLotManagement.Data\obj\Debug\net6.0\ParkingLotManagement.Data.AssemblyInfoInputs.cache
+C:\sai_\ParkingLotManagement\ParkingLotManagement.Data\obj\Debug\net6.0\ParkingLotManagement.Data.AssemblyInfo.cs
+C:\sai_\ParkingLotManagement\ParkingLotManagement.Data\obj\Debug\net6.0\ParkingLotManagement.Data.csproj.CoreCompileInputs.cache
+C:\sai_\ParkingLotManagement\ParkingLotManagement.Data\obj\Debug\net6.0\ParkingLotManagement.Data.dll
+C:\sai_\ParkingLotManagement\ParkingLotManagement.Data\obj\Debug\net6.0\refint\ParkingLotManagement.Data.dll
+C:\sai_\ParkingLotManagement\ParkingLotManagement.Data\obj\Debug\net6.0\ParkingLotManagement.Data.pdb
+C:\sai_\ParkingLotManagement\ParkingLotManagement.Data\obj\Debug\net6.0\ParkingLotManagement.Data.genruntimeconfig.cache
+C:\sai_\ParkingLotManagement\ParkingLotManagement.Data\obj\Debug\net6.0\ref\ParkingLotManagement.Data.dll
